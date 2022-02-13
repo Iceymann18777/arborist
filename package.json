@@ -22,7 +22,7 @@
     "npm-package-arg": "^8.1.5",
     "npm-pick-manifest": "^6.1.0",
     "npm-registry-fetch": "^11.0.0",
-    "pacote": "^11.3.5",
+    "pacote": "^12.0.2",
     "parse-conflict-json": "^1.1.1",
     "proc-log": "^1.0.0",
     "promise-all-reject-late": "^1.0.0",
